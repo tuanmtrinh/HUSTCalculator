@@ -1,2 +1,2 @@
-# HUST Ultimate Planner, or hust_up
+# HUSTCalculator from the HUSTUP Suite
 To be done
