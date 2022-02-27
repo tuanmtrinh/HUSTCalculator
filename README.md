@@ -1,2 +1,2 @@
-# HUSTCalculator from the HUSTUP Suite
+# HUSTCalculator
 To be done
